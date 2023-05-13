@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DurableFunction_Exemplos": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7091",
+      "launchBrowser": false
+    }
+  }
+}
